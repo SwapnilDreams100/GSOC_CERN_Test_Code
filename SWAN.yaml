@@ -1,0 +1,7 @@
+Type: IPython Notebook Extension
+Name: SWANextension
+Description: This extension enables changes 'SWAN' text to its image logo
+Link: readme.md
+Icon: swan.png
+Main: main.js
+Compatibility: 4.x, 5.x
