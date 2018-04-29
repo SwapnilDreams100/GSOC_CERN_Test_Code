@@ -12,4 +12,10 @@ Hi, to use this nbextension,
 
 then you may use the extension on any notebook cell at anytime.
 
+Expected usage:
+
+![alt text](./img1.png)
+
+![alt text](./img2.png)
+
 Thank you for using this tool. 
