@@ -15,8 +15,14 @@ then you may use the extension on any notebook cell at anytime.
 Expected usage:
 
 Before:
+
+
+
 <img src="./img1.png" width="350"/>
 After:
+
+
+
 <img src="./img.png" width="350"/>
 
 Thank you for using this tool. 
