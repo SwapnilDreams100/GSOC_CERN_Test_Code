@@ -14,8 +14,8 @@ then you may use the extension on any notebook cell at anytime.
 
 Expected usage:
 
-![alt text](./img1.png)
+(./img1.png)
 
-![alt text](./img2.png)
+(./img2.png)
 
 Thank you for using this tool. 
