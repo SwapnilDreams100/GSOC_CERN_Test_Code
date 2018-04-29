@@ -14,8 +14,7 @@ then you may use the extension on any notebook cell at anytime.
 
 Expected usage:
 
-(./img1.png)
-
-(./img2.png)
+<img src="./img1.png" width="350"/>
+<img src="./img2.png" width="350"/>
 
 Thank you for using this tool. 
